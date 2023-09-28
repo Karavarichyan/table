@@ -164,6 +164,7 @@ export default {
   color: #333;
 }
 
+
 .add-remove-buttons {
   display: flex;
   justify-content: center;
@@ -173,7 +174,7 @@ export default {
 .add-remove-buttons button {
   margin: 0 5px;
 }
-
+/* vvvv */
 .error-message {
   color: red;
   font-size: 14px;
